@@ -1,5 +1,7 @@
 # OpenWeatherAPI_Airflow_AWS_ETL
 
+![Project Workflow]("C:\Users\tomar\OneDrive\Pictures\Screenshots\Screenshot 2024-04-19 001930.png")
+
 ## Overview
 This is an end-to-end ETL pipeline project which utilizes the OpenWeatherMap API to fetch weather data, performs transformations, and then loads the transformed data into AWS S3. The entire workflow is managed using Apache Airflow on an AWS EC2 instance.
 
